@@ -30,10 +30,10 @@ mit Schwerpunkt auf **Microsoft-Technologien** und **IT-Automatisierung**.
 ---
 
 ## 📌 Was ich mache
-- **Microsoft Schulungen** für Endanwender & Administratoren
-- **Workshops** für Endanwender & Administratoren  
+- **Microsoft Schulungen** für IT-Verantwortliche & Administratoren
+- **Workshops** für IT-Verantwortliche & Administratoren  
 - **PowerShell-Scripting** & Automatisierungslösungen  
-- **Consulting** zu Windows Server, Hyper-V & IT-Security  
+- **Consulting** zu Windows Server, Microsoft 365, Entra, Azure, Hyper-V & IT-Security  
 - Entwicklung praxisnaher **Trainingsmaterialien** & **Live-Demos**
 
 ---
